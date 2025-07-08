@@ -35,7 +35,7 @@ import java.lang.reflect.Modifier;
  */
 public abstract class TestCase
   extends Assert
-  implements Test, gnu.testlet.Testlet
+  implements Test, Testlet
   
 {
 
